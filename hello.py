@@ -245,7 +245,7 @@ print("Final counter:", GLOBAL_COUNTER)
 def bug():
     return bug()
 
-# uncomment for disaster
+# uncomment for disaste
 # bug()
 
 # uncomment for eternal suffering
